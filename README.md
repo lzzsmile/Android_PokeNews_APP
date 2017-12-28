@@ -9,5 +9,7 @@
 *	Doing network operations independent of the Activity Lifecycle.
 *	Clicking on the list item will evoke the intent to open a browser to launch the details about the news related.
 
-![ScreenShot of the APP](https://github.com/lzzsmile/Android_PokeNews_APP/blob/master/Pokenews.png)
-![ScreenShot of the APP](https://github.com/lzzsmile/Android_PokeNews_APP/blob/master/NewsSettings.png)
+##### APP:
+![ScreenShot](https://github.com/lzzsmile/Android_PokeNews_APP/blob/master/Pokenews.png) 
+##### Settings:
+![ScreenShot](https://github.com/lzzsmile/Android_PokeNews_APP/blob/master/NewsSettings.png)
